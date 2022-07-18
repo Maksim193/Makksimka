@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maksim
-- 👀 I’m interested in iOS Development, sometimes python
-- 🌱 I’m currently learning swift basics
+- 👀 I’m interested in iOS Development, sometimes python and web
+- 🌱 I’m currently learning swift basics and litlle js
 - 📫 How to reach me in Telegram @MATTAKUSHI193 or mail max.kosnikov@gmail.com
 
 <!---
